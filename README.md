@@ -10,3 +10,6 @@ You may need to find the cart count id or class name used by your theme or plugi
 This will add a bag icon to the naavigation with a container showing the number of items in your cart, without the need of a plugin. This also contains an optional cart table with skeleton loader.
 
 With all options added you will have a mini cart that will only request data when there is user interaction or when they user requests the data.
+
+![alt text](https://github.com/johncook1979/wc-disable-cart-fragments-update-cart-count/assets/mini-cart.png)
+
