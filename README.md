@@ -11,5 +11,9 @@ This will add a bag icon to the naavigation with a container showing the number 
 
 With all options added you will have a mini cart that will only request data when there is user interaction or when they user requests the data.
 
+Skeleton loader for mini cart while cart items are loading by ajax
+![alt text](/assets/skeleton-loader.png)
+
+Mini cart
 ![alt text](/assets/mini-cart.png)
 
