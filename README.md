@@ -11,5 +11,5 @@ This will add a bag icon to the naavigation with a container showing the number 
 
 With all options added you will have a mini cart that will only request data when there is user interaction or when they user requests the data.
 
-![alt text](https://github.com/johncook1979/wc-disable-cart-fragments-update-cart-count/assets/mini-cart.png)
+![alt text](/assets/mini-cart.png)
 
