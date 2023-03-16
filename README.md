@@ -1,4 +1,4 @@
-# wc-disable-cart-fragments-update-cart-count
+# A WooCommerce mini cart and cart count with disabled WooCommerce cart fragments and delayed script
 Disable WooCommerce Cart Fragments and Update Cart Count On User Interaction
 
 These snippets and scripts will help improve load times for your woocommerce store without loss of user experience. The concept is simple. Disable cart fragments, but update the cart using ajax once there is interaction with the page. This works flawlessly with ajax add to cart plugins.
