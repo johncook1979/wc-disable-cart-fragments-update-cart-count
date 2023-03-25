@@ -2,6 +2,8 @@
   *
   * Update cart count on user interaction
   *
+  * Add file to your child theme directory
+  *
 */
 
 
